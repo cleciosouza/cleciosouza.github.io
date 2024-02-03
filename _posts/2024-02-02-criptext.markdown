@@ -4,6 +4,7 @@ title:  "CripText Incriptador de texto"
 description: "Encriptador de texto desenvolvido durante o programa da Alura em parceria com a Oracle."
 date:   2024-02-02 16:13:57 -0300
 categories: jekyll update
-
+link: https://cleciosouza.github.io/criptext
+repositorio: https://github.com/cleciosouza/criptext
 image: /assets/img/criptext.png
 ---
